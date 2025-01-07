@@ -1,6 +1,6 @@
 import { Category } from "../categories";
 
-export const categoriesData2: Category = {
+ const blockchainExplorers: Category = {
   id: "blockchain-explorers",
   title: "BlockChain Explorers",
   tools: [
@@ -36,21 +36,21 @@ export const categoriesData2: Category = {
       name: "Bscscan",
       description:
         "The BNB Smart Chain Explorer",
-      icon: "/assets/images/bscscan-log.svg",
+      icon: "/assets/images/bscscan-logo.svg",
       link: "https://bscscan.com",
     },
     {
       name: "Bscscan Testnet",
       description:
         "The Testnet BNB Smart Chain Explorer",
-      icon: "/assets/images/bscscan-log.svg",
+      icon: "/assets/images/bscscan-logo.svg",
       link: "https://testnet.bscscan.com",
     },
     {
       name: "OPBNB Bscscan",
       description:
         "The  OPBNB Chain Explorer",
-      icon: "/assets/images/bscscan-log.svg",
+      icon: "/assets/images/bscscan-logo.svg",
       link: "https://opbnb.bscscan.com/",
     },
     {
@@ -70,7 +70,7 @@ export const categoriesData2: Category = {
     {
       name: "Solana Explorer",
       description:
-        "Inspect transactions on the Solana blockchain.", 
+        "Inspect transactions on the Solana blockchain", 
       icon: "https://explorer.solana.com/favicon.svg",
       link: "https://explorer.solana.com",
     },
@@ -121,3 +121,6 @@ export const categoriesData2: Category = {
     },
   ],
 };
+
+export default blockchainExplorers;
+

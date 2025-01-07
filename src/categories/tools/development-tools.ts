@@ -1,6 +1,5 @@
 import { Category } from "../categories";
-
-export const categoriesData4: Category = {
+ const developmentTools: Category = {
   "id": "development-tools",
   "title": "Development Tools",
   "tools": [
@@ -66,3 +65,5 @@ export const categoriesData4: Category = {
     }
   ]
 }
+
+export default developmentTools;

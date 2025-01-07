@@ -1,14 +1,38 @@
 import { Category } from "../categories";
 
-export const categoriesData3: Category = {
-  id: "ai-thesis-tools",
-  title: "AI Thesis Tools",
+ const rpcServices: Category = {
+  id: "rpc-services",
+  title: "Web3 RPC Services",
   tools: [
     {
-      name: "秘塔写作猫",
-      description: "没有广告，直达结果。",
-      icon: "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-      link: "#",
+      name: "ChainList",
+      description: "ChainList is a list of EVM networks",
+      icon: "https://chainlist.org/favicon.ico",
+      link: "https://chainlist.org",
+    },
+    {
+      name: "Alchemy",
+      description: "Alchemy - the web3 development platform",
+      icon: "https://www.datocms-assets.com/105223/1699253173-alchemy-logo.svg",
+      link: "https://www.alchemy.com",
+    },
+    {
+      name: "Infura",
+      description: "Web3 Development Platform | Blockchain Node Service",
+      icon: "https://www.infura.io/favicon/favicon-32x32.png",
+      link: "https://www.infura.io",
+    },
+    {
+      name: "Ankr",
+      description: "Ankr | The Fastest Web3 Infrastructure",
+      icon: "https://www.ankr.com/static/favicon/favicon-32x32.png",
+      link: "https://www.ankr.com",
+    },
+    {
+      name: "1RPC",
+      description: "1RPC | Web3 Private RPC Relay",
+      icon: "https://www.1rpc.io/favicon.webp",
+      link: "https://www.1rpc.io",
     },
     {
       name: "通义智文",
@@ -50,3 +74,5 @@ export const categoriesData3: Category = {
     },
   ],
 };
+
+export default rpcServices;

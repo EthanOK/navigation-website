@@ -1,9 +1,18 @@
-import { categoriesData1 } from "./tools/categoriesData1";
-import { categoriesData2 } from "./tools/categoriesData2";
-import { categoriesData3 } from "./tools/categoriesData3";
-import { categoriesData4 } from "./tools/categoriesData4";  
+import blockchainExplorers from "./tools/blockchain-explorers";
+import developmentTools from "./tools/development-tools";
+import ethanWebsites from "./tools/ethan-websites";
+import recommendedTools from "./tools/recommended-tools";
+import rpcServices from "./tools/rpc-services";
+import web3Communities from "./tools/web3-communities";
 
-const categories = [categoriesData1, categoriesData2, categoriesData3, categoriesData4];
+const categories = [
+  recommendedTools,
+  blockchainExplorers,
+  web3Communities,
+  rpcServices,
+  developmentTools,
+  ethanWebsites,
+];
 
 export interface Tool {
   name: string;
