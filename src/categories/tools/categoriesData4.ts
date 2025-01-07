@@ -1,14 +1,14 @@
 import { Category } from "../categories";
 
 export const categoriesData4: Category = {
-  "id": "ai-tool-collection",
-  "title": "AI Tool Collection",
+  "id": "development-tools",
+  "title": "Development Tools",
   "tools": [
     {
-      "name": "Kimi智能助手",
-      "description": "【AI助手】Kimi智能搜索，一问答一答，信息决策也不怕。",
-      "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-      "link": "#"
+      "name": "Ctool",
+      "description": "哈希/加解密/编码转换/JSON/时间戳/正则...",
+      "icon": "https://ctool.dev/favicon.ico",
+      "link": "https://ctool.dev/tool.html#/tool/json?category=conversion"
     },
     {
       "name": "笔灵AI写作",
