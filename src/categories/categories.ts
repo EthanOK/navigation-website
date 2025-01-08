@@ -11,7 +11,7 @@ const categories = [
   web3Communities,
   rpcServices,
   developmentTools,
-  ethanWebsites,
+  ethanWebsites
 ];
 
 export interface Tool {

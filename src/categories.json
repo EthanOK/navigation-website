@@ -1,316 +1,316 @@
 {
-      "categories": [
+  "categories": [
+    {
+      "id": "recommended-tools",
+      "title": "Recommended Tools",
+      "tools": [
         {
-          "id": "recommended-tools",
-          "title": "Recommended Tools",
-          "tools": [
-            {
-              "name": "剪辑清影-免费AI视频",
-              "description": "免费AI视频",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "评论私信自动回复",
-              "description": "评论私信自动回复",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "Kimi智能助手",
-              "description": "Kimi智能助手",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "热门免费海报模板",
-              "description": "热门免费海报模板",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "免费AI写作",
-              "description": "免费AI写作",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "自媒体一键分发神器",
-              "description": "自媒体一键分发神器",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "给蛙-爆文快写",
-              "description": "给蛙-爆文快写",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "评论私信一键回复",
-              "description": "评论私信一键回复",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "最新免费模版素材",
-              "description": "最新免费模版素材",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "创一AI爆客生成神器",
-              "description": "创一AI爆客生成神器",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "AI免费思维导图",
-              "description": "AI免费思维导图",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "热门素材源文件下载",
-              "description": "热门素材源文件下载",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "秒塔AI搜索",
-              "description": "秒塔AI搜索",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "新媒体配音在线制作",
-              "description": "新媒体配音在线制作",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "电商视频神器",
-              "description": "电商视频神器",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "豆包",
-              "description": "豆包",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "有言AI",
-              "description": "有言AI",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "E2编辑器",
-              "description": "E2编辑器",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "快创3D",
-              "description": "快创3D",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-             {
-              "name": "熊猫视频号下载助手",
-              "description": "熊猫视频号下载助手",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-             {
-              "name": "个人免费下载Adobe素材",
-              "description": "个人免费下载Adobe素材",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            }
-          ]
+          "name": "剪辑清影-免费AI视频",
+          "description": "免费AI视频",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
         },
         {
-          "id": "ai-office-tools",
-          "title": "AI Office Tools",
-          "tools": [
-            {
-              "name": "AIPPT",
-              "description": "AI一键生成PPT，用户无需排版、配色、配图，只需输入主题，AI即",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "讯飞星火",
-              "description": "免费AI智能助手，性能媲美GPT-4",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "免费AI生成视频/文案",
-              "description": "万彩AI是一个全能型AI内容创作网站。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "Suno V4 AI音乐创作",
-              "description": "Suno V4升级，AI助力歌词创作！",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "AI写作助手",
-              "description": "一站式AI自媒体创作平台，支持GPT4、Claude3、Midjourney等模",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "稿定设计",
-              "description": "AI灵感绘图、AI智能设计、AI文生图、AI取标题，创作效率新FUN",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "创一AI播客生成神器",
-              "description": "一站式内容创意平台，高质量视频分析，脚本创作、播客创作",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "比格AI PPT",
-              "description": "支持AI一键生成PPT大纲，导入本地大纲文件，一键更换模版配色。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "有道",
-              "description": "一站式AI创作工具，1200+免费3D数字人。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "快影3D秀",
-              "description": "简单高效的AI产品动画制作平台",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            }
-          ]
+          "name": "评论私信自动回复",
+          "description": "评论私信自动回复",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
         },
         {
-          "id": "ai-thesis-tools",
-          "title": "AI Thesis Tools",
-          "tools": [
-            {
-              "name": "秘塔写作猫",
-              "description": "没有广告，直达结果。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "通义智文",
-              "description": "论文/文献/报告/网页。AI帮你读懂更多，读得更快，读得更好",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "云知写作",
-              "description": "一款专业的论文编辑工具，基于先进的语义分析，智能AI论文助手",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "PaperFree",
-              "description": "一款全面高效的论文查重系统，致力于为学者和学术界提供更英文",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "智绘AI/学术助手",
-              "description": "智绘AI的一个特点，支持文字、表格、颜色、学术翻译以及论文",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-             {
-              "name": "百度橙篇AI",
-              "description": "一个综合性的AI应用商店，主要用于处理和梳理大量、多格式、超长",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "青柠学术",
-              "description": "首个学术创作平台，由学术大咖出品，通过国内人文社科领域的精心",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            }
-          ]
+          "name": "Kimi智能助手",
+          "description": "Kimi智能助手",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
         },
         {
-          "id": "ai-tool-collection",
-          "title": "AI Tool Collection",
-          "tools": [
-            {
-              "name": "Kimi智能助手",
-              "description": "【AI助手】Kimi智能搜索，一问答一答，信息决策也不怕。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "笔灵AI写作",
-              "description": "【AI写作】多场景AI写作，速成社媒公文、商业计划等。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "熊猫视频号下载助手",
-              "description": "支持短视频号、AI红书、抖音、小红书等100多个全平台视频数据无",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "AI免费思维导图",
-              "description": "【AI工具】AI智能思维导图，输入一句话即可生成。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "易撰猫",
-              "description": "是一款专为自媒体创作者打造的创作辅助工具，拥有海量的自媒体",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "秘塔AI搜索",
-              "description": "【AI搜索】没有广告，直达结果。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "智影-免费AI视频",
-              "description": "只需输入文本生成图片、3D的动画视频，无需复杂操作",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "免费AI生成视频/文案",
-              "description": "除了提供AI智能写作，还支持AI换脸，视频生成和AI视频剪辑制作等",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-            {
-              "name": "文心一言",
-              "description": "【AI对话】百度推出的基于大模型人工智能对话助手",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            },
-             {
-              "name": "豆包marscode",
-              "description": "字节推出的免费AI编程助手。",
-              "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-              "link": "#"
-            }
-          ]
+          "name": "热门免费海报模板",
+          "description": "热门免费海报模板",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "免费AI写作",
+          "description": "免费AI写作",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "自媒体一键分发神器",
+          "description": "自媒体一键分发神器",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "给蛙-爆文快写",
+          "description": "给蛙-爆文快写",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "评论私信一键回复",
+          "description": "评论私信一键回复",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "最新免费模版素材",
+          "description": "最新免费模版素材",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "创一AI爆客生成神器",
+          "description": "创一AI爆客生成神器",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "AI免费思维导图",
+          "description": "AI免费思维导图",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "热门素材源文件下载",
+          "description": "热门素材源文件下载",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "秒塔AI搜索",
+          "description": "秒塔AI搜索",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "新媒体配音在线制作",
+          "description": "新媒体配音在线制作",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "电商视频神器",
+          "description": "电商视频神器",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "豆包",
+          "description": "豆包",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "有言AI",
+          "description": "有言AI",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "E2编辑器",
+          "description": "E2编辑器",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "快创3D",
+          "description": "快创3D",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "熊猫视频号下载助手",
+          "description": "熊猫视频号下载助手",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "个人免费下载Adobe素材",
+          "description": "个人免费下载Adobe素材",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "ai-office-tools",
+      "title": "AI Office Tools",
+      "tools": [
+        {
+          "name": "AIPPT",
+          "description": "AI一键生成PPT，用户无需排版、配色、配图，只需输入主题，AI即",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "讯飞星火",
+          "description": "免费AI智能助手，性能媲美GPT-4",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "免费AI生成视频/文案",
+          "description": "万彩AI是一个全能型AI内容创作网站。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "Suno V4 AI音乐创作",
+          "description": "Suno V4升级，AI助力歌词创作！",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "AI写作助手",
+          "description": "一站式AI自媒体创作平台，支持GPT4、Claude3、Midjourney等模",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "稿定设计",
+          "description": "AI灵感绘图、AI智能设计、AI文生图、AI取标题，创作效率新FUN",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "创一AI播客生成神器",
+          "description": "一站式内容创意平台，高质量视频分析，脚本创作、播客创作",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "比格AI PPT",
+          "description": "支持AI一键生成PPT大纲，导入本地大纲文件，一键更换模版配色。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "有道",
+          "description": "一站式AI创作工具，1200+免费3D数字人。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "快影3D秀",
+          "description": "简单高效的AI产品动画制作平台",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "ai-thesis-tools",
+      "title": "AI Thesis Tools",
+      "tools": [
+        {
+          "name": "秘塔写作猫",
+          "description": "没有广告，直达结果。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "通义智文",
+          "description": "论文/文献/报告/网页。AI帮你读懂更多，读得更快，读得更好",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "云知写作",
+          "description": "一款专业的论文编辑工具，基于先进的语义分析，智能AI论文助手",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "PaperFree",
+          "description": "一款全面高效的论文查重系统，致力于为学者和学术界提供更英文",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "智绘AI/学术助手",
+          "description": "智绘AI的一个特点，支持文字、表格、颜色、学术翻译以及论文",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "百度橙篇AI",
+          "description": "一个综合性的AI应用商店，主要用于处理和梳理大量、多格式、超长",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "青柠学术",
+          "description": "首个学术创作平台，由学术大咖出品，通过国内人文社科领域的精心",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "ai-tool-collection",
+      "title": "AI Tool Collection",
+      "tools": [
+        {
+          "name": "Kimi智能助手",
+          "description": "【AI助手】Kimi智能搜索，一问答一答，信息决策也不怕。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "笔灵AI写作",
+          "description": "【AI写作】多场景AI写作，速成社媒公文、商业计划等。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "熊猫视频号下载助手",
+          "description": "支持短视频号、AI红书、抖音、小红书等100多个全平台视频数据无",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "AI免费思维导图",
+          "description": "【AI工具】AI智能思维导图，输入一句话即可生成。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "易撰猫",
+          "description": "是一款专为自媒体创作者打造的创作辅助工具，拥有海量的自媒体",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "秘塔AI搜索",
+          "description": "【AI搜索】没有广告，直达结果。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "智影-免费AI视频",
+          "description": "只需输入文本生成图片、3D的动画视频，无需复杂操作",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "免费AI生成视频/文案",
+          "description": "除了提供AI智能写作，还支持AI换脸，视频生成和AI视频剪辑制作等",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "文心一言",
+          "description": "【AI对话】百度推出的基于大模型人工智能对话助手",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
+        },
+        {
+          "name": "豆包marscode",
+          "description": "字节推出的免费AI编程助手。",
+          "icon": "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
+          "link": "#"
         }
       ]
     }
+  ]
+}
