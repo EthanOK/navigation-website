@@ -1,4 +1,5 @@
 import blockchainExplorers from "./tools/blockchain-explorers";
+import chatgptApps from "./tools/chatgpt-apps";
 import developmentTools from "./tools/development-tools";
 import ethanWebsites from "./tools/ethan-websites";
 import recommendedTools from "./tools/recommended-tools";
@@ -10,6 +11,7 @@ const categories = [
   blockchainExplorers,
   web3Communities,
   rpcServices,
+  chatgptApps,
   developmentTools,
   ethanWebsites
 ];
