@@ -8,9 +8,9 @@ const web3Communities: Category = {
       name: "learnblockchain",
       description: "登链社区 - Web3 开发者社区",
       icon: "https://avatars.githubusercontent.com/u/49527454",
-      link: "https://learnblockchain.cn",
-    },
-  ],
+      link: "https://learnblockchain.cn"
+    }
+  ]
 };
 
 export default web3Communities;
