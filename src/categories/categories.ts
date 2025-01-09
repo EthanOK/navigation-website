@@ -1,3 +1,4 @@
+import aiCodingTools from "./tools/ai-coding-tools";
 import blockchainExplorers from "./tools/blockchain-explorers";
 import chatgptApps from "./tools/chatgpt-apps";
 import developmentTools from "./tools/development-tools";
@@ -12,6 +13,7 @@ const categories = [
   web3Communities,
   rpcServices,
   chatgptApps,
+  aiCodingTools,
   developmentTools,
   ethanWebsites
 ];

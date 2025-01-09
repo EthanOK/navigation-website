@@ -10,17 +10,17 @@ const developmentTools: Category = {
       link: "https://ctool.dev/tool.html#/tool/json?category=conversion"
     },
     {
-      name: "笔灵AI写作",
-      description: "【AI写作】多场景AI写作，速成社媒公文、商业计划等。",
-      icon: "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-      link: "#"
+      name: "Vercel",
+      description:
+        "Build and deploy the best web experiences with the Frontend Cloud",
+      icon: "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico",
+      link: "https://vercel.com"
     },
     {
-      name: "熊猫视频号下载助手",
-      description:
-        "支持短视频号、AI红书、抖音、小红书等100多个全平台视频数据无",
-      icon: "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-      link: "#"
+      name: "Netlify",
+      description: "Scale & Ship Faster with a Composable Web Architecture",
+      icon: "https://www.netlify.com/favicon/icon.svg",
+      link: "https://www.netlify.com"
     },
     {
       name: "AI免费思维导图",
