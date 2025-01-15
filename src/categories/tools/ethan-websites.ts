@@ -45,6 +45,12 @@ const ethanWebsites: Category = {
       description: "web3 hub website",
       icon: "/assets/images/we3hub-logo.svg",
       link: "https://web3hub.vercel.app"
+    },
+    {
+      name: "umami",
+      description: "The modern analytics platform for effortless insights",
+      icon: "https://web3umami.vercel.app/favicon.ico",
+      link: "https://web3umami.vercel.app"
     }
   ]
 };

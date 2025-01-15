@@ -23,10 +23,11 @@ const developmentTools: Category = {
       link: "https://www.netlify.com"
     },
     {
-      name: "AI免费思维导图",
-      description: "【AI工具】AI智能思维导图，输入一句话即可生成。",
-      icon: "https://static.kaolamedia.com/4b/61/4b6111133a693079ab67704e45df3cff/icon",
-      link: "#"
+      name: "Supabase",
+      description:
+        "Start your project with a Postgres database, instant APIs, Storage",
+      icon: "https://supabase.com/favicon/favicon-96x96.png",
+      link: "https://supabase.com"
     },
     {
       name: "易撰猫",
