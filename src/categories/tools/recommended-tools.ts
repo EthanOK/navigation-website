@@ -39,6 +39,25 @@ const recommendedTools: Category = {
       description: "Input an ABI JSON and get a Solidity interface",
       icon: "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       link: "https://gnidan.github.io/abi-to-sol/"
+    },
+    {
+      name: "Tenderly",
+      description:
+        "Tenderly is a full-stack infrastructure for the entire dapp lifecycle",
+      icon: "https://tenderly.co/favicons/favicon.ico",
+      link: "https://dashboard.tenderly.co/explorer"
+    },
+    {
+      name: "Phalcon",
+      description: "Dive into Transactions to Act Wisely",
+      icon: "https://assets.blocksec.com/image/1729057366722/logo1.svg",
+      link: "https://app.blocksec.com/explorer"
+    },
+    {
+      name: "Metasleuth",
+      description: "Crypto Tracking and Investigation Platform",
+      icon: "https://assets.blocksec.com/image/1691494672404-2.png",
+      link: "https://metasleuth.io"
     }
   ]
 };
