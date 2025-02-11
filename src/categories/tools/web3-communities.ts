@@ -25,7 +25,7 @@ const web3Communities: Category = {
     {
       name: "WTF Academy",
       description: "Web3 Open University for Developers",
-      icon: "https://www.wtf.academy/img/logo.png",
+      icon: "https://www.wtf.academy/favicon.ico",
       link: "https://www.wtf.academy"
     }
   ]
