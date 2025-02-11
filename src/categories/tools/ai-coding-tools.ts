@@ -27,7 +27,7 @@ const aiCodingTools: Category = {
     {
       name: "Bolt.new",
       description: "AI-Powered Full-Stack Web Development in the Browser",
-      icon: "https://bolt.new/favicon.svg",
+      icon: "https://bolt.new/static/favicon.svg",
       link: "https://bolt.new"
     }
   ]
