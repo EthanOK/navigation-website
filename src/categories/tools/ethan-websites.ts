@@ -23,10 +23,10 @@ const ethanWebsites: Category = {
       link: "https://ethanok.github.io"
     },
     {
-      name: "YunGou Tools",
-      description: "Ethan's YunGou Tools",
-      icon: "https://ethan-yungou.vercel.app/favicon.ico",
-      link: "https://ethan-yungou.vercel.app"
+      name: "Ethan Tools",
+      description: "Ethan's Tools",
+      icon: "https://ethan-bric.vercel.app/favicon.ico",
+      link: "https://ethan-bric.vercel.app"
     },
     {
       name: "Solana Demo",
