@@ -19,8 +19,14 @@ const recommendedTools: Category = {
     {
       name: "Calldata Decoder",
       description: "Easily decode Ethereum calldata",
-      icon: "https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040",
+      icon: "https://decode-calldata.vercel.app/favicon.ico",
       link: "https://decode-calldata.vercel.app"
+    },
+    {
+      name: "OpenChain",
+      description: "Signature Database, Transaction Tracer, ABI Tools",
+      icon: "https://openchain.xyz/_next/image?url=%2Fopenchain.png&w=48&q=75",
+      link: "https://openchain.xyz"
     },
     {
       name: "4byte",
@@ -44,7 +50,7 @@ const recommendedTools: Category = {
       name: "Tenderly",
       description:
         "Tenderly is a full-stack infrastructure for the entire dapp lifecycle",
-      icon: "https://tenderly.co/favicons/favicon.ico",
+      icon: "https://dashboard.tenderly.co/favicon.ico",
       link: "https://dashboard.tenderly.co/explorer"
     },
     {

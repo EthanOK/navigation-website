@@ -12,11 +12,18 @@ const aiCodingTools: Category = {
       link: "https://www.cursor.com"
     },
     {
+      name: "Trae",
+      description:
+        "TRAE IDE integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency.",
+      icon: "https://lf-cdn.trae.ai/obj/trae-ai-us/trae_website_prod/favicon.png",
+      link: "https://www.trae.ai"
+    },
+    {
       name: "Windsurf Editor",
       description:
         "Windsurf is Codeium's next-generation AI IDE built to keep you in the flow",
-      icon: "https://codeium.com/logo/windsurf_teal_logo.svg",
-      link: "https://codeium.com/windsurf"
+      icon: "https://windsurf.com/favicon.svg",
+      link: "https://windsurf.com"
     },
     {
       name: "Cline",

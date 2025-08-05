@@ -8,7 +8,7 @@ const contractDevelopments: Category = {
       name: "Solidity",
       description:
         "Solidity is high-level language for implementing smart contracts",
-      icon: "https://cryptologos.cc/logos/ethereum-eth-logo.svg",
+      icon: "https://soliditylang.org/assets/logo-og-image.png",
       link: "https://soliditylang.org"
     },
     {
@@ -34,6 +34,13 @@ const contractDevelopments: Category = {
       description: "EVM development environment",
       icon: "https://hardhat.org/favicon.ico",
       link: "https://hardhat.org"
+    },
+    {
+      name: "Reown AppKit",
+      description:
+        "WalletConnect: AppKit is a comprehensive SDK for creating seamless onchain UX",
+      icon: "https://mintlify.s3-us-west-1.amazonaws.com/reown-5552f0bb/_generated/favicon/favicon-32x32.png",
+      link: "https://docs.reown.com/appkit/overview"
     }
   ]
 };

@@ -25,8 +25,8 @@ const ethanWebsites: Category = {
     {
       name: "Ethan Tools",
       description: "Ethan's Tools",
-      icon: "https://ethan-bric.vercel.app/favicon.ico",
-      link: "https://ethan-bric.vercel.app"
+      icon: "https://ethan-dapp.vercel.app/favicon.ico",
+      link: "https://ethan-dapp.vercel.app"
     },
     {
       name: "Solana Demo",
