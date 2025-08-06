@@ -41,6 +41,13 @@ const contractDevelopments: Category = {
         "WalletConnect: AppKit is a comprehensive SDK for creating seamless onchain UX",
       icon: "https://mintlify.s3-us-west-1.amazonaws.com/reown-5552f0bb/_generated/favicon/favicon-32x32.png",
       link: "https://docs.reown.com/appkit/overview"
+    },
+    {
+      name: "Gelato",
+      description:
+        "Build scalable, custom enterprise-grade Rollups with Gelato's Web3 Services natively integrated",
+      icon: "https://app.gelato.cloud/images/favicon.ico",
+      link: "https://app.gelato.cloud"
     }
   ]
 };

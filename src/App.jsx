@@ -1,15 +1,12 @@
 import React, { useState, useRef, useEffect } from "react";
 import { categoriesDatas } from "./categories/categories";
 
-
 function App() {
-
   const [categories, setCategories] = useState(categoriesDatas);
   const [selectedCategory, setSelectedCategory] = useState(categories[0]);
   const [activeCategory, setActiveCategory] = useState(categories[0].id);
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const mainContentRef = useRef(null);
-  
 
   const handleCategoryClick = (category) => {
     setSelectedCategory(category);
@@ -20,7 +17,7 @@ function App() {
       if (element) {
         mainContentRef.current.scrollTo({
           top: element.offsetTop,
-          behavior: "smooth",
+          behavior: "smooth"
         });
       }
     }
@@ -86,8 +83,8 @@ function App() {
             <div className="tool-grid">
               {category.tools.map((tool, toolIndex) => (
                 <div key={toolIndex} className="tool-item">
-                  <img src={tool.icon} />
                   <a href={tool.link} target="_blank" rel="noopener noreferrer">
+                    <img src={tool.icon} />
                     <h3>{tool.name}</h3>
                   </a>
                   <p className="tool-description">{tool.description}</p>
