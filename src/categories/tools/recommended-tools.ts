@@ -23,6 +23,12 @@ const recommendedTools: Category = {
       link: "https://decode-calldata.vercel.app"
     },
     {
+      name: "Swiss Knife",
+      description: "All your Ethereum dev tools at one place!",
+      icon: "https://swiss-knife.xyz/icon.png",
+      link: "https://swiss-knife.xyz"
+    },
+    {
       name: "OpenChain",
       description: "Signature Database, Transaction Tracer, ABI Tools",
       icon: "https://openchain.xyz/_next/image?url=%2Fopenchain.png&w=48&q=75",
