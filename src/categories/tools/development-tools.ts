@@ -34,6 +34,12 @@ const developmentTools: Category = {
       description: "Next-gen cloud OS with Kubernetes core",
       icon: "https://avatars.githubusercontent.com/u/102226726",
       link: "https://hzh.sealos.run"
+    },
+    {
+      name: "Toolhub",
+      description: "Free Online JSON Formatter & Timestamp Converter",
+      icon: "https://toolhub.sbs/favicon.ico",
+      link: "https://toolhub.sbs/index.html"
     }
   ]
 };
