@@ -30,8 +30,8 @@ const recommendedTools: Category = {
     },
     {
       name: "OpenChain",
-      description: "Signature Database, Transaction Tracer, ABI Tools",
-      icon: "https://openchain.xyz/_next/image?url=%2Fopenchain.png&w=48&q=75",
+      description: "4byte.sourcify.dev - Sourcify Ethereum Signature Database",
+      icon: "http://avatars.githubusercontent.com/u/66270757",
       link: "https://openchain.xyz"
     },
     {
